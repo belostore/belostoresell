@@ -1,0 +1,97 @@
+
+
+.card{
+    height: 375px;
+    width: 300px;
+    margin-right: 70px;
+    margin-left: 300px;
+    margin-inline: 40px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    float: left;
+    
+}
+
+.card-title {
+    text-align: left;
+}
+
+.card-body{
+    align-items: left;
+   justify-content: center;
+   border-color: #0a0a0a;
+   
+}
+
+.col{
+    margin-left: 50px;
+}
+
+.card-img-top{
+    width: 253px;
+    height: 253px;
+}
+.modal2-body{
+    text-align: left;
+    width: 500px;
+    height: 500px;
+    font-size: 20px;
+}
+
+.col-modal{
+    width: 500px;
+    height: 500px;
+    border-color: #0a0a0a;
+}
+
+.modal-img-top {
+    width: 250px;
+    height: 250px;
+    margin-left: 120px;
+    margin-bottom: 10px;
+}
+
+.footer{
+    background-color:#0e0d0ddc;
+    display:inline-block;
+    width: 100%;
+    height: 170px;
+    text-align: center;
+}
+.hf{
+    color: #e3e9e5;
+    margin-top: 10px;
+}
+.pf{
+    color: #e3e9e5;
+}
+.whatsapp-button{
+    
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #25d366;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    cursor:pointer;
+    transition: background-color 0.3s ease;
+}
+
+.whatsapp-button:hover{
+    background-color: #128c7e;
+}
+
+.button-wapp{
+    margin-left: 120px;
+    margin-bottom: 10px;
+}
+
+.header{
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
